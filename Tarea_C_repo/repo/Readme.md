@@ -1,7 +1,7 @@
 # Simulador de Combate Pokémon
 
 ## Integrantes
-- [nombre]
+- [Lorenzo]
 
 ## ¿Cómo compilar?
 
